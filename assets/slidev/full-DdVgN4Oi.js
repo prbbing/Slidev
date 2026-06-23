@@ -1,1 +1,0 @@
-import{R as e,V as t,y as n}from"../modules/shiki-CHaY4-Hj.js";import{pt as r}from"../index-BJX4ky8y.js";var i={},a={class:`slidev-layout full w-full h-full`};function o(r,i){return e(),n(`div`,a,[t(r.$slots,`default`,{class:`w-full h-full`})])}var s=r(i,[[`render`,o]]);export{s as t};
